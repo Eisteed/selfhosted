@@ -1,5 +1,7 @@
-# selfhosted
-List of my personal pick for self hosted apps. Privacy first !
+# EisSelfhosted
+List of my personal pick for self hosted apps.
+Privacy First. 
+Not your server, not your data !
 
 **Cloud Files / Collaboration**
 - Nextcloud
