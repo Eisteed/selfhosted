@@ -39,7 +39,7 @@ Not your server, not your data !
 
 
 ## Media Library & Streaming
-- [Plex media server](https://www.plex.tv/fr/media-server-downloads/?cat=computer&plat=linux)
+- [Plex media server](https://www.plex.tv/fr/media-server-downloads/)
 
 ## Media Library & Peer To Peer
 - [Organizr](https://github.com/causefx/Organizr) (Frontend for quick access)
