@@ -35,4 +35,21 @@ Not your server, not your data !
 
 **Smart Home**
 - [Home Assistant](https://www.home-assistant.io/)
-Running on raspberry pi 3 + zigbee usb dongle & zigbee hardware.
+- Running on raspberry pi 3 + zigbee usb dongle & zigbee hardware.
+
+
+## Media Library & Peer To Peer
+
+Docker Compose Running
+- [Organizr](https://github.com/causefx/Organizr) (Frontend for quick access)
+- [gluetun](https://github.com/qdm12/gluetun) (VPN)
+- [QBitTorrent](https://hub.docker.com/r/linuxserver/qbittorrent) (P2P)
+- [Overseer](https://overseerr.dev/) (Frontend for noob friendly find & download)
+- [Radarr](https://radarr.video/) (Movies)
+- [Sonarr](https://sonarr.tv/) (Tv series)
+- [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) (Music using deemix as download client (deezer arl needed))
+- [Jackett](https://github.com/Jackett/Jackett) (Add & manage torrent tracker, search engine)
+- [flaresolverr](https://github.com/FlareSolverr/FlareSolverr) (bypass cloudflare proteciton on some site, needed by jackett)
+- [Dockge](https://github.com/louislam/dockge) (Manage docker compose)
+- [autoheal](https://github.com/willfarrell/docker-autoheal) (Auto restart crashed docker container)
+
