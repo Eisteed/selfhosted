@@ -18,9 +18,9 @@ Not your server, not your data !
 ## Applications
 
 **Cloud Files / Collaboration**
-- [Nextcloud](https://nextcloud.com/install/#download-server)
-- [Photoprism](https://www.photoprism.app/)
-- [OlnyOffice Document Server](https://github.com/ONLYOFFICE/DocumentServer)
+- [Nextcloud](https://nextcloud.com/install/#download-server) (Files management, versioning, sharing)
+- [Photoprism](https://www.photoprism.app/) (Photo & Video album & sharing)
+- [OnlyOffice Document Server](https://github.com/ONLYOFFICE/DocumentServer) (Google Doc/Sheet alternative)
 
 **Personal Finance / Budget**
 - [Actual Budget](https://actualbudget.org/)
