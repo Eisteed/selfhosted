@@ -1,4 +1,4 @@
-# EisSelfhosted
+# EisSelfHosted
 List of my personal pick for self hosted apps.
 Privacy First. 
 Not your server, not your data !
