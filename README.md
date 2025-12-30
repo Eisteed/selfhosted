@@ -38,9 +38,10 @@ Not your server, not your data !
 - Running on raspberry pi 3 + zigbee usb dongle & zigbee hardware.
 
 
-## Media Library & Peer To Peer
+## Media Library & Streaming
+- [Plex media server](https://www.plex.tv/fr/media-server-downloads/?cat=computer&plat=linux)
 
-Docker Compose Running
+## Media Library & Peer To Peer
 - [Organizr](https://github.com/causefx/Organizr) (Frontend for quick access)
 - [gluetun](https://github.com/qdm12/gluetun) (VPN)
 - [QBitTorrent](https://hub.docker.com/r/linuxserver/qbittorrent) (P2P)
